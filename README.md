@@ -2,5 +2,5 @@
 
 ## Nathaniel Ashmead
 
-Email: [nathanielashmead@u.boisestate.edu](nathanielashmead@u.boisestate.edu)
+Email: [nathanielashmead@u.boisestate.edu](mailto:nathanielashmead@u.boisestate.edu)
 
