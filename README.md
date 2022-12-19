@@ -11,21 +11,14 @@ Email: [nathanielashmead@u.boisestate.edu](mailto:nathanielashmead@u.boisestate.
 * Water Resource Management
 
 ### I will use research computing in my research to:
-1. Complete a mixing model analysis of Sr/U isotope data for water samples collected in the Logan River Watershed
+1. Complete a mixing model analysis of Sr/U isotope data for water samples collected in the Logan River Watershed (Figure 1)
 2. Compute water-balance calculations at various sample locations throughout my study area
 
-![image info](./pictures/Study_area_505.png)
-
-## SMART Goals
-Letter | Description
-----------|----------
-S | Specific 
-M | Measurable
-A | Achievable
-R | Relevant
-T | Time-Bound
+![alt text](https://github.com/napanate/GEOS505_Fall2022/blob/main/Study_area_505.png?raw=true) **Figure 1:** Overview map of my study area within the Logan River Watershed Utah, USA.
 
 
+
+### Semester Goals:
 
 #### Goal 1: I want to be able to use Python to analyze datasets and produce clear figures
 Letter | Description
